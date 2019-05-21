@@ -1,4 +1,4 @@
-# laravel_language_codes
+# Laravel Language Codes seed and migration list
 Laravel Language Codes by ISO Standard. Ready to deploy and seed automatically
 
 These files will help you add Language Codes easily to your laravel project.
